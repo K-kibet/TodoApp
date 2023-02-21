@@ -55,6 +55,7 @@ class MainActivity : AppCompatActivity() {
             //inputLayout.isVisible = false
             //getWindow().setSoftInputMode( WindowManager.LayoutParams.SOFT_INPUT_STATE_ALWAYS_HIDDEN );
             return true
+            //git
         }
     }
 
